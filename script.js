@@ -49,7 +49,7 @@ window.addEventListener('scroll', () => {
 
 // --- Typewriter Effect ---
 const dynamicText = document.querySelector('.dynamic-text');
-const roles = ['Tech Student', 'Writer', 'Blogger', 'Poet'];
+const roles = ['Tech Enthusiast', 'Writer', 'Poet'];
 let roleIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
